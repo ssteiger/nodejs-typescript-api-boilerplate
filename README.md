@@ -1,4 +1,4 @@
-# Metadata API NodeJS
+# NodeJS Typescript API
 
 ## Install dependencies
 
