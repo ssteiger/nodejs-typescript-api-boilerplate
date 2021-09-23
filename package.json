@@ -2,7 +2,7 @@
   "name": "nodejs-typescript-api",
   "version": "0.1.0",
   "description": "",
-  "private": true,
+  "license": "MIT",
   "authors": [
     "ssteiger"
   ],
